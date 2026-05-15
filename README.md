@@ -66,3 +66,5 @@ plt.legend(['Regression Line','Data points'])
 
 
 # Result : 
+
+Thus the program is implemented and Executed Successfully.
